@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkredsocial"]=self["webpackChunkredsocial"]||[]).push([[800],{9800:function(r,e,n){n.r(e),n.d(e,{default:function(){return l}});var u=n(6252);function c(r,e){return(0,u.wg)(),(0,u.iD)("h2",null,"profile")}var t=n(3744);const a={},i=(0,t.Z)(a,[["render",c]]);var l=i}}]);
+//# sourceMappingURL=800.3f0fa563.js.map
